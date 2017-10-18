@@ -1,2 +1,2 @@
 # MyApplication
-AA
+JNI for bitmap
